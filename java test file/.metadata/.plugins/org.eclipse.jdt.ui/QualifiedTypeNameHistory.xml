@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.smartdatasolutions.test.MemberExporter"/>
+    <fullyQualifiedTypeName name="com.smartdatasolutions.test.Member"/>
+    <fullyQualifiedTypeName name="com.smartdatasolutions.test.impl.MemberExporterImpl"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+</qualifiedTypeNameHistroy>
